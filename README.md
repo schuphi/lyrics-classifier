@@ -30,6 +30,7 @@ Requirements: Python 3.10+
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -U pandas numpy scikit-learn nltk matplotlib tensorflow gensim lyricsgenius rapidfuzz
 python -c "import nltk; nltk.download('punkt'); nltk.download('vader_lexicon')"
+```
 
 ## Notes
 To rebuild the dataset, a Genius API token is required (lyricsgenius).
