@@ -2,6 +2,7 @@
 
 This project was developed for a university exam in Natural Language Processing.  
 It predicts the **decade of release** (1980s–2020s) from rap lyrics and explores linguistic changes over time.
+Received best grade (12) for the project + oral exam.
 
 ## Overview
 - **Dataset:** ~3,900 rap songs collected from Genius. After cleaning and filtering, ~3,879 songs remained, spanning 1980–2024.
